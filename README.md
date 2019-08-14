@@ -3,6 +3,7 @@
 Authors： Baoshun Shi, Qiusheng Lian,  Xiaoyu Fan
 
 This package is a demo code for the aforementioned paper. This paper is published in the journal “Signal Processing” (https://www.sciencedirect.com/science/article/pii/S016516841930132X?via%3Dihub). If you use this code, please contact me  or  cite this paper. 
+
 Shi Baoshun, Lian Qiusheng, Fan Xiaoyu. PPR: Plug-and-play regularization model for solving nonlinear imaging inverse problems. Signal Processing, 2019，162(9)：83-96. 
 The email address is  shibaoshun@ysu.edu.cn.
 
